@@ -2,7 +2,7 @@
 
 
 
-HYears = input("input the age of yout dog: ")
+HYears = input("input the age of your dog: ")
 def dogyears (years):
     years = int(years)
     return (years*7)
